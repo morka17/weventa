@@ -7,4 +7,9 @@ class AppImageIcons {
   static const String slackLogo = "assets/images/slack_logo.png";
   static const String slack = "assets/images/slack.png";
   static const String pay = "assets/images/pay.png";
+  static const String tweetBird = "assets/images/tweet_bird.png";
+  static const String youtube = "assets/images/youtube.png";
+  static const String twitter = "assets/images/twitter.png";
+  static const String facebook = "assets/images/facebook.png";
+  static const String  instagram = "assets/images/camera.png";
 }
